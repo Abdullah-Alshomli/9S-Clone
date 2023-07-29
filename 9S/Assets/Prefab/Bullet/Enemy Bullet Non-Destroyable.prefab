@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -6875969367954778029}
   m_Layer: 9
   m_Name: Enemy Bullet Non-Destroyable
-  m_TagString: Untagged
+  m_TagString: non
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -66,7 +66,7 @@ MonoBehaviour:
   BulletHitEffect: {fileID: 6786224037029969417, guid: 8ede13cf0bb255b478d0bc6ba19869ed, type: 3}
   Damage: 1
   PlayerExplodeEffect: {fileID: 6786224037029969417, guid: f3aaa42b784add1469885b5ec4ae00cf, type: 3}
-  SparkEffect: {fileID: 7008681786803721424, guid: 511159bd0020d4d4dbafad4af6b88014, type: 3}
+  SparkEffect: {fileID: 7008681786803721424, guid: 28791a1c3dc91474db12bd7d025860da, type: 3}
 --- !u!54 &-6875969367954778029
 Rigidbody:
   m_ObjectHideFlags: 0

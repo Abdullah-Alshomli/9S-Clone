@@ -31,7 +31,7 @@ public class Bullet : MonoBehaviour
 
     private void OnCollisionEnter(Collision other)
     {
-        if (other.gameObject.layer != Layers.Player_Bullet && other.gameObject.layer != Layers.Player)
+        if (other.gameObject.layer != Layers.Player_Bullet && other.gameObject.layer != Layers.Player && other.gameObject.tag != "non")
         {
             Destroy(gameObject);
             

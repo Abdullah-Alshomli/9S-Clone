@@ -10,13 +10,16 @@ public class EnemyBulletNonDestroyable : EnemyBullet
         if (other.gameObject.layer == Layers.Player)
         {
             // collided with the player
-            GameObject PlayerExplodeEffectPrefab = Instantiate(PlayerExplodeEffect, other.transform.position, other.transform.rotation);
-            Destroy(other.gameObject);
+            GameObject PlayerExplodeEffectPrefab = Instantiate(SparkEffect, transform.position, transform.rotation);
+            Destroy(PlayerExplodeEffectPrefab,2);
+            other.gameObject.GetComponent<HPComponent>().TakeDamage(1);
             Destroy(gameObject);
+            
         }
+
         else if (other.gameObject.layer == Layers.Wall)
         {
-            GameObject PlayerExplodeEffectPrefab = Instantiate(PlayerExplodeEffect, transform.position, transform.rotation);
+            GameObject PlayerExplodeEffectPrefab = Instantiate(SparkEffect, transform.position, transform.rotation);
             Destroy(PlayerExplodeEffectPrefab,2);
             Destroy(gameObject);
         }

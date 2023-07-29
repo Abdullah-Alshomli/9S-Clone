@@ -375,6 +375,7 @@
 "Assets/Scripts/Enemies/TripleShooter.cs"
 "Assets/Scripts/Enemies/Turret.cs"
 "Assets/Scripts/Player/FixCamRig.cs"
+"Assets/Scripts/Player/PlayerHealthManger.cs"
 "Assets/Scripts/Player/PlayerInput.cs"
 "Assets/Scripts/Player/PlayerMovement.cs"
 "Assets/Scripts/Player/Shooting.cs"

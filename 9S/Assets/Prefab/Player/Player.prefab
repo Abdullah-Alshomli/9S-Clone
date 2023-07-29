@@ -322,6 +322,8 @@ GameObject:
   - component: {fileID: 173652388}
   - component: {fileID: 173652389}
   - component: {fileID: 173652390}
+  - component: {fileID: 2130917063}
+  - component: {fileID: 2130917064}
   m_Layer: 3
   m_Name: Player
   m_TagString: Untagged
@@ -364,7 +366,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 116
-  m_CollisionDetection: 1
+  m_CollisionDetection: 0
 --- !u!136 &173652386
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -423,6 +425,32 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   MovementSpeed: 10
   PlayerInput: {fileID: 173652389}
+--- !u!114 &2130917063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6525965871867831085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8c354cd880f7ab4bb8fc8720be44637, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HP: 3
+--- !u!114 &2130917064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6525965871867831085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23eb231da6127574884e4f30bbe67711, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ExplotionEffect: {fileID: 6786224037029969417, guid: f3aaa42b784add1469885b5ec4ae00cf, type: 3}
 --- !u!1001 &6611654294542777466
 PrefabInstance:
   m_ObjectHideFlags: 0

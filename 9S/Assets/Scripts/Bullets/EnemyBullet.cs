@@ -6,7 +6,7 @@ using UnityEngine;
 public class EnemyBullet : Bullet
 {
     [SerializeField] protected GameObject PlayerExplodeEffect;
-    [SerializeField] private GameObject SparkEffect;
+    [SerializeField] protected GameObject SparkEffect;
     
     private void OnCollisionEnter(Collision other)
     {
@@ -22,10 +22,12 @@ public class EnemyBullet : Bullet
         else if (other.gameObject.layer == Layers.Player)
         {
             // collided with the player
-            GameObject PlayerExplodeEffectPrefab = Instantiate(PlayerExplodeEffect, other.transform.position, other.transform.rotation);
-            Destroy(PlayerExplodeEffectPrefab,3);
-            Destroy(other.gameObject);
+            GameObject Spark = Instantiate(SparkEffect, gameObject.transform.position, gameObject.transform.rotation);
+            Destroy(Spark,3);
+            other.gameObject.GetComponent<HPComponent>().TakeDamage(1);
             Destroy(gameObject);
+            
+            
             
         }
         else
