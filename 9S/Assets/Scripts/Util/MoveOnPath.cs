@@ -13,6 +13,13 @@ public class MoveOnPath : MonoBehaviour
     void Update()
     {
         
+        
+        
+        if (CurrntPoint == PathPoints.Count)
+        {
+            CurrntPoint = 0;
+        }
+        
         //transform.position += PathPoints[CurrntPoint].transform.position * Time.deltaTime * 0.1f;
         transform.position = Vector3.MoveTowards(transform.position, PathPoints[CurrntPoint].transform.position, StepSize * Time.deltaTime);
         if (Vector3.Distance(transform.position, PathPoints[CurrntPoint].transform.position) <= 0.05f)
@@ -21,10 +28,7 @@ public class MoveOnPath : MonoBehaviour
             Debug.Log(CurrntPoint);
         }
 
-        if (CurrntPoint == PathPoints.Count)
-        {
-            CurrntPoint = 0;
-        }
+
 
 
 

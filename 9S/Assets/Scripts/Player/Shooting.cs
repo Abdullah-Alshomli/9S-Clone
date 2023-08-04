@@ -15,6 +15,8 @@ public class Shooting : MonoBehaviour
     private float FirerateDelay;
     private bool CanFire = true;
 
+    private bool IsPoweredUp = false;
+    private float PowerUpTime = 0;
 
     private void Start()
     {
@@ -29,7 +31,7 @@ public class Shooting : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetMouseButton(0) && CanFire)
+        if ((Input.GetMouseButton(0) && CanFire) || (IsPoweredUp && Input.GetMouseButton(0)))
         {
             Shoot();
             CanFire = false;
@@ -45,6 +47,30 @@ public class Shooting : MonoBehaviour
             CanFire = true;
             FirerateDelay = Firerate;
         }
+
+        if (PowerUpTime > 0)
+        {
+            PowerUpTime -= Time.deltaTime;
+        }
+        else
+        {
+            IsPoweredUp = false;
+        }
+
     }
-    
+
+    private void PowerUp()
+    {
+        IsPoweredUp = true;
+        PowerUpTime = 10;
+    }
+
+    private void OnCollisionEnter(Collision other)
+    {
+        if (other.gameObject.layer == Layers.PowerUp)
+        {
+            Destroy(other.gameObject);
+            PowerUp();
+        }
+    }
 }

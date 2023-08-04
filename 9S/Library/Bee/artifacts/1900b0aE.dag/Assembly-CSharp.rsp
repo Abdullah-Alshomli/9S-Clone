@@ -384,6 +384,7 @@
 "Assets/Scripts/Util/MoveOnPath.cs"
 "Assets/Scripts/Util/PathFinding.cs"
 "Assets/Scripts/Util/RotatingComponent.cs"
+"Assets/Scripts/Util/UpAndDownMovmentComponent.cs"
 -langversion:9.0
 
 /deterministic

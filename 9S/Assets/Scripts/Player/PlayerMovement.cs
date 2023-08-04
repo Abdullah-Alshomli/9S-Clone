@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
@@ -21,9 +22,16 @@ public class PlayerMovement : MonoBehaviour
     private void Update()
     {
         //moving the player
+        Vector3 RaycastPostion = new Vector3(transform.position.x, transform.position.y + 0.5f, transform.position.z);
+        // Debug.DrawRay(RaycastPostion, PlayerInput.GetSpeedVectorNormalized() * 0.5f,Color.red);
+        if (Physics.Raycast(RaycastPostion, PlayerInput.GetSpeedVectorNormalized(),out RaycastHit HitData,0.5f))
+        {
+            if (HitData.transform.gameObject.layer == Layers.Wall)
+            {
+                return;
+            }
+        }
         PlayerTransform.position += PlayerInput.GetSpeedVectorNormalized() * (MovementSpeed * Time.deltaTime) ;
-
+        
     }
-
-
 }

@@ -8,7 +8,7 @@ public class PlayerInput : MonoBehaviour
     private Vector3 ScreenPosition;
     private Vector3 WorldPosition;
     
-    private Vector3 SpeedVector = new Vector3(0, 0, 0);
+    
     
 
     [SerializeField] private LayerMask LayersToHit;
@@ -21,26 +21,27 @@ public class PlayerInput : MonoBehaviour
 
     public Vector3 GetSpeedVectorNormalized()
     {
-        SpeedVector = Vector3.zero;
+        Vector3 speedVector = new Vector3(0, 0, 0);
+        
         if (Input.GetKey(KeyCode.W))
         {
-            SpeedVector.z = 1;
+            speedVector.z = 1;
         }
         if (Input.GetKey(KeyCode.S))
         {
-            SpeedVector.z = -1;
+            speedVector.z = -1;
         }
         if (Input.GetKey(KeyCode.D))
         {
-            SpeedVector.x = 1;
+            speedVector.x = 1;
         }
         if (Input.GetKey(KeyCode.A))
         {
-            SpeedVector.x = -1;
+            speedVector.x = -1;
         }
         
-        SpeedVector = SpeedVector.normalized;
-        return SpeedVector;
+        speedVector = speedVector.normalized;
+        return speedVector;
     }
     
     

@@ -15,4 +15,5 @@ public class Layers : MonoBehaviour
     public const int Ground = 8;
     public const int Enemy_Bullet = 9;
     public const int Enemy = 10;
+    public const int PowerUp = 11;
 }

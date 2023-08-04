@@ -8,6 +8,7 @@ public class HPComponent : MonoBehaviour
     [SerializeField] private int HP = 10;
     private bool isActive = true;
 
+
     public bool IsActive
     {
         get => isActive;

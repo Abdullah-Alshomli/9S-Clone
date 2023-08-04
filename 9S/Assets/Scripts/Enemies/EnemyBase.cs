@@ -16,7 +16,7 @@ public class EnemyBase : MonoBehaviour
     [SerializeField] private GameObject ExplotionEffect;
     [SerializeField] private GameObject bulletDestroyable;
     [SerializeField] private GameObject bulletNonDestroyable;
-    [SerializeField] private bool twoBulletTypes = false;
+    [SerializeField] protected bool twoBulletTypes = false;
     
     private HPComponent _hpComponent;
 
@@ -49,7 +49,6 @@ public class EnemyBase : MonoBehaviour
         }
 
     #endregion
-    
 
     
     // Start is called before the first frame update
@@ -82,9 +81,6 @@ public class EnemyBase : MonoBehaviour
             Destroy(ExpEffect,3);
             Destroy(gameObject);
             Destroy(other.gameObject);
-            // ExplotionEffect = 
-            //
-            // Destroy(other.gameObject);
         }
     }
 
