@@ -79,7 +79,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   EnemyPrefab: {fileID: 117362085693259578, guid: f79f102f764d0764489e9a5515999d4d, type: 3}
   TimeToSpawn: 50
-  SpawnEffect: {fileID: 0}
+  SpawnEffect: {fileID: 1845949252318915877, guid: 1227e172702af514dac7e7be07cc07ef, type: 3}
+  EffectSpawnPoint: {fileID: 8900020451812253595}
 --- !u!1 &8900020451812253595
 GameObject:
   m_ObjectHideFlags: 0
