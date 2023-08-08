@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4444238963158516839
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2277838862308840235, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: Pan2D
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2277838862308840235, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: m_Pitch
+      value: 0.95
+      objectReference: {fileID: 0}
+    - target: {fileID: 2277838862308840235, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: Priority
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2277838862308840235, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: m_Volume
+      value: 0.109
+      objectReference: {fileID: 0}
+    - target: {fileID: 3550424364252046773, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3550424364252046773, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.3913636
+      objectReference: {fileID: 0}
+    - target: {fileID: 3550424364252046773, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3550424364252046773, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -7.749982
+      objectReference: {fileID: 0}
+    - target: {fileID: 3550424364252046773, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3550424364252046773, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3550424364252046773, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3550424364252046773, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3550424364252046773, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3550424364252046773, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3550424364252046773, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6652068303679059181, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: m_Name
+      value: Bullet Hit AudioPlayer Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8807444289433562921, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: Clip
+      value: 
+      objectReference: {fileID: 8300000, guid: 7ed0568c14ecc2845af236b3570ef49d, type: 3}
+    - target: {fileID: 8807444289433562921, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: time
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8807444289433562921, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
+      propertyPath: timeToDestroy
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 46a8337c181968e47a82cd68f96eeb6b, type: 3}
