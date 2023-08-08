@@ -10,20 +10,22 @@ public class AudioPlayer : MonoBehaviour
     [SerializeField] private AudioClip Clip;
 
     [SerializeField] private float time = 0.1f;
+
+    private float t = 0;
     // Start is called before the first frame update
     void Start()
     {
-
+        t = time;
     }
 
     // Update is called once per frame
     void Update()
     {
-        time -= Time.deltaTime;
-        if (Input.GetMouseButton(0) && time <= 0)
+        t -= Time.deltaTime;
+        if (Input.GetMouseButton(0) && t <= 0)
         {
             Source.PlayOneShot(Clip);
-            time = 0.1f;
+            t = time;
         }
     }
 }

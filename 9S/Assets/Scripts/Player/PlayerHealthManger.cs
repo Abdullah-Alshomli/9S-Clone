@@ -11,6 +11,8 @@ public class PlayerHealthManger : MonoBehaviour
     [SerializeField] private GameObject ExplotionEffect;
     private HPComponent _hpComponent;
     
+    [SerializeField] private GameObject explosionAudioPlayer;
+    
 
     void Start()
     {
@@ -21,8 +23,6 @@ public class PlayerHealthManger : MonoBehaviour
     {
         if (_hpComponent.Hp <= 0)
         {
-            GameObject ExpEffect = Instantiate(ExplotionEffect, transform.position, transform.rotation);
-            Destroy(ExpEffect, 3);
             Destroy(gameObject);
         }
 
@@ -34,5 +34,14 @@ public class PlayerHealthManger : MonoBehaviour
         {
             Cube2.SetActive(false);
         }
+    }
+    
+    
+    
+    private void OnDestroy()
+    {
+        Instantiate(explosionAudioPlayer,transform.position,transform.rotation);
+        GameObject ExpEffect = Instantiate(ExplotionEffect, transform.position, transform.rotation);
+        Destroy(ExpEffect, 3);
     }
 }

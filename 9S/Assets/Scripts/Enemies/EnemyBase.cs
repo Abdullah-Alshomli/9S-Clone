@@ -13,10 +13,12 @@ public class EnemyBase : MonoBehaviour
 {
     private GameObject player;
     
-    [SerializeField] private GameObject ExplotionEffect;
+    [SerializeField] private GameObject explosionEffect;
     [SerializeField] private GameObject bulletDestroyable;
     [SerializeField] private GameObject bulletNonDestroyable;
     [SerializeField] protected bool twoBulletTypes = false;
+
+    [SerializeField] private GameObject explosionAudioPlayer;
     
     private HPComponent _hpComponent;
 
@@ -67,8 +69,12 @@ public class EnemyBase : MonoBehaviour
             _hpComponent.TakeDamage(Damage);
             if (_hpComponent.Hp <= 0)
             {
-                GameObject ExpEffect = Instantiate(ExplotionEffect, transform.position, transform.rotation);
-                Destroy(ExpEffect,3);
+                if (explosionEffect)
+                {
+                    GameObject ExpEffect = Instantiate(explosionEffect, transform.position, transform.rotation);
+                    Destroy(ExpEffect,3);
+                }
+
                 Destroy(gameObject);
 
             }
@@ -77,13 +83,24 @@ public class EnemyBase : MonoBehaviour
 
         if (other.gameObject.layer == Layers.Player)
         {
-            GameObject ExpEffect = Instantiate(ExplotionEffect, other.transform.position, other.transform.rotation);
-            Destroy(ExpEffect,3);
+            if (explosionEffect)
+            {
+                GameObject ExpEffect = Instantiate(explosionEffect, other.transform.position, other.transform.rotation);
+                Destroy(ExpEffect,3);
+            }
+
+
             Destroy(gameObject);
             Destroy(other.gameObject);
         }
     }
 
+    private void OnDestroy()
+    {
+        if (explosionAudioPlayer)
+        {
+            Instantiate(explosionAudioPlayer,transform.position,transform.rotation);
+        }
 
-    
+    }
 }
