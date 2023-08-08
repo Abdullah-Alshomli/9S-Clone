@@ -455,6 +455,7 @@ MonoBehaviour:
   Cube1: {fileID: 1895883978}
   Cube2: {fileID: 1474177778}
   ExplotionEffect: {fileID: 6786224037029969417, guid: f3aaa42b784add1469885b5ec4ae00cf, type: 3}
+  explosionAudioPlayer: {fileID: 397264122283513596, guid: 13b08aa99a51f7e458107fff140b8598, type: 3}
 --- !u!82 &1705451499
 AudioSource:
   m_ObjectHideFlags: 0
@@ -467,13 +468,13 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
-  m_Pitch: 1
+  m_Volume: 0.4
+  m_Pitch: 3
   Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 0
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -564,8 +565,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Source: {fileID: 1705451499}
-  Clip: {fileID: 8300000, guid: e77d03bb237c8854697b644ca145e396, type: 3}
-  time: 0.3
+  Clip: {fileID: 8300000, guid: f0665883b3cc7324b8980e1aafca2056, type: 3}
+  time: 0.1
 --- !u!1001 &6611654294542777466
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -115,6 +115,7 @@ MonoBehaviour:
   LivingTime: 3
   BulletHitEffect: {fileID: 6786224037029969417, guid: 8ede13cf0bb255b478d0bc6ba19869ed, type: 3}
   Damage: 1
+  HitAudioPlayer: {fileID: 7061080349298618506, guid: e5ce5b199c2d9d44db85cd65b0a80f3d, type: 3}
 --- !u!54 &-8116245584140883888
 Rigidbody:
   m_ObjectHideFlags: 0

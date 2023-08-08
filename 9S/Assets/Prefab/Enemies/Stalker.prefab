@@ -51,9 +51,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc1367ce19114894ba15299602a8c4fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ExplotionEffect: {fileID: 6786224037029969417, guid: f3aaa42b784add1469885b5ec4ae00cf, type: 3}
+  explosionEffect: {fileID: 6786224037029969417, guid: f3aaa42b784add1469885b5ec4ae00cf, type: 3}
   bulletDestroyable: {fileID: 1515183566113273791, guid: 7a6554e531e0f3f43bc544f30cbdff7c, type: 3}
   bulletNonDestroyable: {fileID: 179267132143042833, guid: 23c98a28a6ce8fd48ad1615cf7ff3526, type: 3}
+  twoBulletTypes: 0
+  explosionAudioPlayer: {fileID: 397264122283513596, guid: 13b08aa99a51f7e458107fff140b8598, type: 3}
 --- !u!114 &6115703964772173693
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -252,9 +254,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc1367ce19114894ba15299602a8c4fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ExplotionEffect: {fileID: 7008681786803721424, guid: b4c118bc0178c7046b25b98d1c34d9a2, type: 3}
+  explosionEffect: {fileID: 0}
   bulletDestroyable: {fileID: 0}
   bulletNonDestroyable: {fileID: 0}
+  twoBulletTypes: 0
+  explosionAudioPlayer: {fileID: 0}
 --- !u!1 &7374878738567560551
 GameObject:
   m_ObjectHideFlags: 0

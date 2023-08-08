@@ -191,10 +191,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f144f6c8c709e24b9aef2b4a070e01d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ExplotionEffect: {fileID: 6786224037029969417, guid: f3aaa42b784add1469885b5ec4ae00cf, type: 3}
+  explosionEffect: {fileID: 6786224037029969417, guid: f3aaa42b784add1469885b5ec4ae00cf, type: 3}
   bulletDestroyable: {fileID: 1515183566113273791, guid: 7a6554e531e0f3f43bc544f30cbdff7c, type: 3}
   bulletNonDestroyable: {fileID: 179267132143042833, guid: 23c98a28a6ce8fd48ad1615cf7ff3526, type: 3}
   twoBulletTypes: 0
+  explosionAudioPlayer: {fileID: 397264122283513596, guid: 13b08aa99a51f7e458107fff140b8598, type: 3}
   BulletSpawnPoints:
   - {fileID: 779321533662403445}
   - {fileID: 779321533607736082}

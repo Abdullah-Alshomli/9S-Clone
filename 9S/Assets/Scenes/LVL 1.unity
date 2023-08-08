@@ -358,10 +358,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1705451499, guid: b2da91c73553a19498af204287aff70d, type: 3}
-      propertyPath: m_Pitch
-      value: 2.61
-      objectReference: {fileID: 0}
     - target: {fileID: 6525965871867831085, guid: b2da91c73553a19498af204287aff70d, type: 3}
       propertyPath: m_Name
       value: Player
@@ -474,6 +470,63 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d68244fcfd2275c40b79b81c1db5694d, type: 3}
+--- !u!1001 &1020551601
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2276821137810072817, guid: 2fea54a5a146bc14e85cf1a3474c5505, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2276821137810072817, guid: 2fea54a5a146bc14e85cf1a3474c5505, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2276821137810072817, guid: 2fea54a5a146bc14e85cf1a3474c5505, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2276821137810072817, guid: 2fea54a5a146bc14e85cf1a3474c5505, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2276821137810072817, guid: 2fea54a5a146bc14e85cf1a3474c5505, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2276821137810072817, guid: 2fea54a5a146bc14e85cf1a3474c5505, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2276821137810072817, guid: 2fea54a5a146bc14e85cf1a3474c5505, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2276821137810072817, guid: 2fea54a5a146bc14e85cf1a3474c5505, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2276821137810072817, guid: 2fea54a5a146bc14e85cf1a3474c5505, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2276821137810072817, guid: 2fea54a5a146bc14e85cf1a3474c5505, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2276821137810072817, guid: 2fea54a5a146bc14e85cf1a3474c5505, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2276821137810072820, guid: 2fea54a5a146bc14e85cf1a3474c5505, type: 3}
+      propertyPath: m_Name
+      value: Music Player
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2fea54a5a146bc14e85cf1a3474c5505, type: 3}
 --- !u!1 &1329366357
 GameObject:
   m_ObjectHideFlags: 0
@@ -516,6 +569,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1320117407, guid: cba2ca33c6981d646979bc1c646850d9, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320117408, guid: cba2ca33c6981d646979bc1c646850d9, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1588851400101086170, guid: cba2ca33c6981d646979bc1c646850d9, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -563,6 +624,10 @@ PrefabInstance:
     - target: {fileID: 2109772884835047776, guid: cba2ca33c6981d646979bc1c646850d9, type: 3}
       propertyPath: m_Name
       value: Hunter
+      objectReference: {fileID: 0}
+    - target: {fileID: 7912086639350283582, guid: cba2ca33c6981d646979bc1c646850d9, type: 3}
+      propertyPath: HP
+      value: 30
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cba2ca33c6981d646979bc1c646850d9, type: 3}

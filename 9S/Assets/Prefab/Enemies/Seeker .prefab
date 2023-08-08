@@ -50,10 +50,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a0837a0f36d46eb47ac39611aa65b8f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ExplotionEffect: {fileID: 6786224037029969417, guid: f3aaa42b784add1469885b5ec4ae00cf, type: 3}
+  explosionEffect: {fileID: 6786224037029969417, guid: f3aaa42b784add1469885b5ec4ae00cf, type: 3}
   bulletDestroyable: {fileID: 4835739785449681176, guid: 95a8e2dc1eb7d974d9a50e38843d52b6, type: 3}
   bulletNonDestroyable: {fileID: 179267132143042833, guid: 23c98a28a6ce8fd48ad1615cf7ff3526, type: 3}
   twoBulletTypes: 0
+  explosionAudioPlayer: {fileID: 397264122283513596, guid: 13b08aa99a51f7e458107fff140b8598, type: 3}
   BulletSpawnPoint: {fileID: 2082808669481892319}
   ShootRange: 20
   Firerate: 1
