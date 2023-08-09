@@ -5,7 +5,94 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/LVL 1.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/UI/Main Menu.unity
+    guid: 0288c5e44e9d2d64a88c08193ac4c3c5
+  - enabled: 1
+    path: Assets/Scenes/UI/LVLs.unity
+    guid: 0bd77bb962a50ce45ba3d0fda7151f0e
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 1.unity
+    guid: d644442570879214497cbcc066db12b2
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 2.unity
+    guid: 014be2d2be718bb4394b75f4249b76dc
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 3.unity
+    guid: 1bbe47ce071341149b8d3960d4fe8bef
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 4.unity
+    guid: 135564752f3a48e4580294b3d09f929b
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 5.unity
+    guid: fc06c1d28e75b6745ae4cb2d3fed8053
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 6.unity
+    guid: 480411033606751408a1d21efcb93fda
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 7.unity
+    guid: b5121a47a7e1f204f9e6ea9629d77344
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 8.unity
+    guid: 594ec467468eece4bb4f0e136679d3e3
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 9.unity
+    guid: 3210e492a6a5d6349a014358e282b3f2
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 10.unity
+    guid: aefd98529480f3044bc68270d87f59ca
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 11.unity
+    guid: e0b1432b3f19dd24eaa0fab667acb47f
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 12.unity
+    guid: 1b6c32ed9b89fbc49bcd56f67a67ee24
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 13.unity
+    guid: 6f4731343423ee4439333023629a5311
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 14.unity
+    guid: 5eda40c594f75ca4086c9e7b99778af1
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 15.unity
+    guid: c673eac17d9536940a6d04fe8d995c00
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 16.unity
+    guid: 89817886488708f47832ba4a7c12f0d1
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 17.unity
+    guid: 514fa5a6b0dfaaa46940326cfe3cac36
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 18.unity
+    guid: 38ce6b32c1feeda4fa6e661a396e4c13
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 19.unity
+    guid: f52c004dd0a676b4eb07500783b6a7d2
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 20.unity
+    guid: 1ff7d6b66e959354b8daddf6db52e943
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 21.unity
+    guid: 032f8a5eed87f9b4e8a010dcb8e79076
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 22.unity
+    guid: 61e50c6012d60484cb6b335b91b943aa
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 23.unity
+    guid: 00aee2868e6bf4f4daa2461e6bb64892
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 24.unity
+    guid: 8e44ecf5c72d0214ab4d12eb10c71ab0
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 25.unity
+    guid: fb02f55e20c7efa42a596c749f0d0009
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 26.unity
+    guid: a24489989f7c3264e9f2dcf470772db1
+  - enabled: 1
+    path: Assets/Scenes/LVLs/LVL 27.unity
+    guid: 0fff0ee7913de4d499efe45609f35d59
   m_configObjects: {}
