@@ -17,6 +17,7 @@ public class Shooting : MonoBehaviour
 
     private bool IsPoweredUp = false;
     private float PowerUpTime = 0;
+    [SerializeField] private float PowerUpTimeControl = 10;
 
     private void Start()
     {
@@ -62,7 +63,7 @@ public class Shooting : MonoBehaviour
     private void PowerUp()
     {
         IsPoweredUp = true;
-        PowerUpTime = 10;
+        PowerUpTime = PowerUpTimeControl;
     }
 
     private void OnCollisionEnter(Collision other)

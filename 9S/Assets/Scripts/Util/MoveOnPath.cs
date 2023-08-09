@@ -25,7 +25,6 @@ public class MoveOnPath : MonoBehaviour
         if (Vector3.Distance(transform.position, PathPoints[CurrntPoint].transform.position) <= 0.05f)
         {
             CurrntPoint++;
-            Debug.Log(CurrntPoint);
         }
 
 

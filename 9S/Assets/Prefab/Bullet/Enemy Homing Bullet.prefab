@@ -47,7 +47,7 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.5
-  m_Speed: 3
+  m_Speed: 5
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 120
@@ -75,6 +75,7 @@ MonoBehaviour:
   LivingTime: 5
   BulletHitEffect: {fileID: 6786224037029969417, guid: 8ede13cf0bb255b478d0bc6ba19869ed, type: 3}
   Damage: 1
+  HitAudioPlayer: {fileID: 0}
   PlayerExplodeEffect: {fileID: 6786224037029969417, guid: f3aaa42b784add1469885b5ec4ae00cf, type: 3}
   SparkEffect: {fileID: 7008681786803721424, guid: 511159bd0020d4d4dbafad4af6b88014, type: 3}
 --- !u!54 &2926515203199460643
