@@ -384,6 +384,8 @@
 "Assets/Scripts/Util/Layers.cs"
 "Assets/Scripts/Util/MoveOnPath.cs"
 "Assets/Scripts/Util/MusicPlayer.cs"
+"Assets/Scripts/Util/MyUI.cs"
+"Assets/Scripts/Util/ObjectToggler.cs"
 "Assets/Scripts/Util/PathFinding.cs"
 "Assets/Scripts/Util/PlayAudio.cs"
 "Assets/Scripts/Util/RotatingComponent.cs"
