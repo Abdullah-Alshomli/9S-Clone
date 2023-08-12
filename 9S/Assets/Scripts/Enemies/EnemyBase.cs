@@ -101,6 +101,6 @@ public class EnemyBase : MonoBehaviour
         {
             Instantiate(explosionAudioPlayer,transform.position,transform.rotation);
         }
-
+        EnemisManger.numberOfEnemise--;
     }
 }

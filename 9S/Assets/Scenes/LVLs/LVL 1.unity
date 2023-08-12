@@ -358,6 +358,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2130917064, guid: b2da91c73553a19498af204287aff70d, type: 3}
+      propertyPath: currentLvl
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6525965871867831085, guid: b2da91c73553a19498af204287aff70d, type: 3}
       propertyPath: m_Name
       value: Player
@@ -887,14 +891,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 103777628, guid: 129b49bcf2318f8429d23aa5699d2cbf, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1814885786, guid: 129b49bcf2318f8429d23aa5699d2cbf, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 2659194197481728542, guid: 129b49bcf2318f8429d23aa5699d2cbf, type: 3}
       propertyPath: m_Name
       value: General

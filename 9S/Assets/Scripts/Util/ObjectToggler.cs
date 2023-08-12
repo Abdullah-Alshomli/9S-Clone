@@ -18,12 +18,12 @@ public class ObjectToggler : MonoBehaviour
         else if (Input.GetKeyDown(KeyCode.Escape))
         {
             Object.SetActive(false);
-            Time.timeScale = 1;
+            Time.timeScale = 1.2f;
         }
     }
 
     private void OnDestroy()
     {
-        Time.timeScale = 1;
+        Time.timeScale = 1.2f;
     }
 }

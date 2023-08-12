@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.Serialization;
 
 public class PlayerHealthManger : MonoBehaviour
 {
@@ -12,7 +14,8 @@ public class PlayerHealthManger : MonoBehaviour
     private HPComponent _hpComponent;
     
     [SerializeField] private GameObject explosionAudioPlayer;
-    
+
+    [SerializeField] private int currentLvl;
 
     void Start()
     {
@@ -43,5 +46,21 @@ public class PlayerHealthManger : MonoBehaviour
         Instantiate(explosionAudioPlayer,transform.position,transform.rotation);
         GameObject ExpEffect = Instantiate(ExplotionEffect, transform.position, transform.rotation);
         Destroy(ExpEffect, 3);
+        if (EnemisManger.numberOfEnemise > 0 )
+        {
+            GoToLVL(currentLvl);
+        }
+        else if (currentLvl == 27 && _hpComponent.Hp > 0)
+        {
+            GoToLVL(28);
+        }
     }
+    
+    public void GoToLVL(int LVLNumber)
+    {
+        SceneManager.UnloadSceneAsync(SceneManager.GetActiveScene());
+        string LVLName = "LVL " + LVLNumber;
+        SceneManager.LoadScene(LVLName);
+    }
+    
 }

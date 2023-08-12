@@ -119,9 +119,9 @@ NavMeshAgent:
   m_AgentTypeID: 0
   m_Radius: 0.74
   m_Speed: 6
-  m_Acceleration: 1000000
+  m_Acceleration: 6
   avoidancePriority: 50
-  m_AngularSpeed: 360
+  m_AngularSpeed: 120
   m_StoppingDistance: 0
   m_AutoTraverseOffMeshLink: 1
   m_AutoBraking: 1
@@ -142,8 +142,6 @@ GameObject:
   - component: {fileID: 6115703966390600466}
   - component: {fileID: 6115703966390600467}
   - component: {fileID: 6115703966390600556}
-  - component: {fileID: 6115703966390600464}
-  - component: {fileID: 6115703966390600465}
   m_Layer: 0
   m_Name: Shiled
   m_TagString: Untagged
@@ -229,36 +227,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &6115703966390600464
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6115703966390600558}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d8c354cd880f7ab4bb8fc8720be44637, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  HP: 10
---- !u!114 &6115703966390600465
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6115703966390600558}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fc1367ce19114894ba15299602a8c4fb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  explosionEffect: {fileID: 0}
-  bulletDestroyable: {fileID: 0}
-  bulletNonDestroyable: {fileID: 0}
-  twoBulletTypes: 0
-  explosionAudioPlayer: {fileID: 0}
 --- !u!1 &7374878738567560551
 GameObject:
   m_ObjectHideFlags: 0

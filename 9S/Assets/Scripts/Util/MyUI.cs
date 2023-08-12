@@ -21,6 +21,9 @@ public class MyUI : MonoBehaviour
     
     public void GoToLVL(int LVLNumber)
     {
+        SceneManager.UnloadSceneAsync(SceneManager.GetActiveScene());
+        
+        
         string LVLName = "LVL " + LVLNumber;
         SceneManager.LoadScene(LVLName);
     }
