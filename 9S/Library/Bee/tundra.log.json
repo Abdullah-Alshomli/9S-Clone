@@ -243,309 +243,312 @@
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/Resources/unity_builtin_extra","index":106,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\Resources\\unity_builtin_extra"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets9.assets","index":105,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets9.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets8.assets","index":104,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets8.assets"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/Managed/Assembly-CSharp.dll","index":108,"changes":[{"key":"InputFileList","value":["Temp\\StagingArea\\Data\\Managed\\Assembly-CSharp.dll"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets7.assets","index":103,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets7.assets"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets5.assets","index":100,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets5.assets"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets4.assets","index":99,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets4.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets6.assets","index":102,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets6.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets5.assets.resS","index":101,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets5.assets.resS"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets4.assets","index":99,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets4.assets"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets5.assets","index":100,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets5.assets"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets26.assets.resS","index":94,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets26.assets.resS"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets3.assets","index":98,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets3.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets29.assets","index":97,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets29.assets"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets28.assets","index":96,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets28.assets"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets27.assets","index":95,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets27.assets"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets26.assets.resS","index":94,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets26.assets.resS"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets25.assets","index":92,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets25.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets26.assets","index":93,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets26.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets24.assets","index":91,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets24.assets"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets25.assets","index":92,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets25.assets"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/Resources/unity_builtin_extra","index":106}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets23.assets","index":90,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets23.assets"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets23.assets","index":90}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets27.assets","index":95,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets27.assets"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets27.assets","index":95}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets22.assets","index":89,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets22.assets"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets22.assets","index":89}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets3.assets","index":98,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets3.assets"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets3.assets","index":98}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets21.assets","index":88,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets21.assets"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets21.assets","index":88}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets28.assets","index":96,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets28.assets"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets28.assets","index":96}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets20.assets","index":87,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets20.assets"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets20.assets","index":87}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/Resources/unity_builtin_extra","index":106}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets2.resource","index":86,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets2.resource"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets2.resource","index":86}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets2.assets.resS","index":85,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets2.assets.resS"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets25.assets","index":92}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets2.assets.resS","index":85}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets2.assets","index":84,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets2.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets2.assets","index":84}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets9.assets","index":105}
+{"msg":"noderesult","processed_node_count":133,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets2.assets.resS","index":85,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets2.assets.resS"}
+{"msg":"noderesult","processed_node_count":134,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets9.assets","index":105,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets9.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets19.assets","index":83,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets19.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets19.assets","index":83}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets8.assets","index":104}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets7.assets","index":103}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets6.assets","index":102}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets5.assets.resS","index":101}
-{"msg":"noderesult","processed_node_count":134,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/Resources/unity_builtin_extra","index":106,"exitcode":0,"outputfile":"Download Game\\9S_Data\\Resources\\unity_builtin_extra"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets18.assets","index":82,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets18.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets18.assets","index":82}
-{"msg":"noderesult","processed_node_count":135,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets21.assets","index":88,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets21.assets"}
-{"msg":"noderesult","processed_node_count":135,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets3.assets","index":98,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets3.assets"}
+{"msg":"noderesult","processed_node_count":135,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets2.assets","index":84,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets2.assets"}
+{"msg":"noderesult","processed_node_count":136,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/Resources/unity_builtin_extra","index":106,"exitcode":0,"outputfile":"Download Game\\9S_Data\\Resources\\unity_builtin_extra"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets17.assets","index":81,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets17.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets17.assets","index":81}
-{"msg":"noderesult","processed_node_count":136,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets22.assets","index":89,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets22.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets16.assets","index":80,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets16.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets16.assets","index":80}
-{"msg":"noderesult","processed_node_count":137,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets27.assets","index":95,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets27.assets"}
+{"msg":"noderesult","processed_node_count":137,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets17.assets","index":81,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets17.assets"}
+{"msg":"noderesult","processed_node_count":137,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets18.assets","index":82,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets18.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets15.assets","index":79,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets15.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets15.assets","index":79}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets14.assets","index":78,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets14.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets14.assets","index":78}
-{"msg":"noderesult","processed_node_count":139,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets25.assets","index":92,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets25.assets"}
-{"msg":"noderesult","processed_node_count":139,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets23.assets","index":90,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets23.assets"}
+{"msg":"noderesult","processed_node_count":139,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets19.assets","index":83,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets19.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets13.assets","index":77,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets13.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets13.assets","index":77}
+{"msg":"noderesult","processed_node_count":140,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets16.assets","index":80,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets16.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets12.assets","index":76,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets12.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets12.assets","index":76}
-{"msg":"noderesult","processed_node_count":141,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets2.assets.resS","index":85,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets2.assets.resS"}
+{"msg":"noderesult","processed_node_count":141,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets15.assets","index":79,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets15.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets11.assets.resS","index":75,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets11.assets.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets11.assets.resS","index":75}
-{"msg":"noderesult","processed_node_count":142,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets20.assets","index":87,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets20.assets"}
+{"msg":"noderesult","processed_node_count":142,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets14.assets","index":78,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets14.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets11.assets","index":74,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets11.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets11.assets","index":74}
-{"msg":"noderesult","processed_node_count":143,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets2.assets","index":84,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets2.assets"}
-{"msg":"noderesult","processed_node_count":143,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets28.assets","index":96,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets28.assets"}
+{"msg":"noderesult","processed_node_count":143,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets13.assets","index":77,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets13.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets10.assets","index":73,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets10.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets10.assets","index":73}
+{"msg":"noderesult","processed_node_count":144,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets12.assets","index":76,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets12.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets1.assets.resS","index":72,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets1.assets.resS"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"noderesult","processed_node_count":145,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets19.assets","index":83,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets19.assets"}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets1.assets.resS","index":72}
+{"msg":"noderesult","processed_node_count":145,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets10.assets","index":73,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets10.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets1.assets","index":71,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets1.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets1.assets","index":71}
-{"msg":"noderesult","processed_node_count":146,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets8.assets","index":104,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets8.assets"}
+{"msg":"noderesult","processed_node_count":146,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets1.assets.resS","index":72,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets1.assets.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets0.assets.resS","index":70,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets0.assets.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets0.assets.resS","index":70}
-{"msg":"noderesult","processed_node_count":147,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets7.assets","index":103,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets7.assets"}
+{"msg":"noderesult","processed_node_count":147,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets1.assets","index":71,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets1.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/sharedassets0.assets","index":69,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\sharedassets0.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets0.assets","index":69}
-{"msg":"noderesult","processed_node_count":148,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets13.assets","index":77,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets13.assets"}
-{"msg":"noderesult","processed_node_count":150,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets12.assets","index":76,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets12.assets"}
-{"msg":"noderesult","processed_node_count":151,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets5.assets.resS","index":101,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets5.assets.resS"}
+{"msg":"noderesult","processed_node_count":148,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets0.assets.resS","index":70,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets0.assets.resS"}
+{"msg":"noderesult","processed_node_count":148,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets0.assets","index":69,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets0.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/resources.assets.resS","index":66,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\resources.assets.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/resources.assets.resS","index":66}
+{"msg":"noderesult","processed_node_count":151,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/resources.assets.resS","index":66,"exitcode":0,"outputfile":"Download Game\\9S_Data\\resources.assets.resS"}
+{"msg":"noderesult","processed_node_count":152,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets11.assets.resS","index":75,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets11.assets.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/resources.assets","index":65,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\resources.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/resources.assets","index":65}
-{"msg":"noderesult","processed_node_count":152,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets14.assets","index":78,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets14.assets"}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level9","index":63,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level9"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level9.resS","index":64,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level9.resS"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level9","index":63}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level9.resS","index":64}
-{"msg":"noderesult","processed_node_count":154,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets16.assets","index":80,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets16.assets"}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets8.assets","index":104}
+{"msg":"noderesult","processed_node_count":153,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets11.assets","index":74,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets11.assets"}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level9","index":63,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level9"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level9","index":63}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/Managed/Assembly-CSharp.dll","index":108}
+{"msg":"noderesult","processed_node_count":154,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/resources.assets","index":65,"exitcode":0,"outputfile":"Download Game\\9S_Data\\resources.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level8.resS","index":62,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level8.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level8.resS","index":62}
-{"msg":"noderesult","processed_node_count":155,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets18.assets","index":82,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets18.assets"}
-{"msg":"noderesult","processed_node_count":155,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets6.assets","index":102,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets6.assets"}
+{"msg":"noderesult","processed_node_count":155,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level9.resS","index":64,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level9.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level8","index":61,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level8"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level8","index":61}
+{"msg":"noderesult","processed_node_count":156,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/Managed/Assembly-CSharp.dll","index":108,"exitcode":0,"outputfile":"Download Game\\9S_Data\\Managed\\Assembly-CSharp.dll"}
+{"msg":"noderesult","processed_node_count":156,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets8.assets","index":104,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets8.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level7.resS","index":60,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level7.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level7.resS","index":60}
-{"msg":"noderesult","processed_node_count":157,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets17.assets","index":81,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets17.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level7","index":59,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level7"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level7","index":59}
-{"msg":"noderesult","processed_node_count":158,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets15.assets","index":79,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets15.assets"}
+{"msg":"noderesult","processed_node_count":158,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level8.resS","index":62,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level8.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level6.resS","index":58,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level6.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level6.resS","index":58}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets4.assets","index":99}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets5.assets","index":100}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets29.assets","index":97}
-{"msg":"noderesult","processed_node_count":159,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets1.assets","index":71,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets1.assets"}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets26.assets.resS","index":94}
+{"msg":"noderesult","processed_node_count":159,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level9","index":63,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level9"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level6","index":57,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level6"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level6","index":57}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets26.assets","index":93}
-{"msg":"noderesult","processed_node_count":160,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets0.assets.resS","index":70,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets0.assets.resS"}
+{"msg":"noderesult","processed_node_count":160,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level8","index":61,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level8"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level5.resS","index":56,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level5.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level5.resS","index":56}
-{"msg":"noderesult","processed_node_count":161,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets0.assets","index":69,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets0.assets"}
+{"msg":"noderesult","processed_node_count":161,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level7.resS","index":60,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level7.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level5","index":55,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level5"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level5","index":55}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets24.assets","index":91}
-{"msg":"noderesult","processed_node_count":162,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets10.assets","index":73,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets10.assets"}
+{"msg":"noderesult","processed_node_count":162,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level7","index":59,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level7"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level4.resS","index":54,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level4.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level4.resS","index":54}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets9.assets","index":105}
-{"msg":"noderesult","processed_node_count":163,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets1.assets.resS","index":72,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets1.assets.resS"}
+{"msg":"noderesult","processed_node_count":163,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level6.resS","index":58,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level6.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level4","index":53,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level4"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level4","index":53}
-{"msg":"noderesult","processed_node_count":164,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/resources.assets.resS","index":66,"exitcode":0,"outputfile":"Download Game\\9S_Data\\resources.assets.resS"}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level3.resS","index":52,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level3.resS"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level3.resS","index":52}
-{"msg":"noderesult","processed_node_count":165,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/resources.assets","index":65,"exitcode":0,"outputfile":"Download Game\\9S_Data\\resources.assets"}
-{"msg":"noderesult","processed_node_count":165,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level9.resS","index":64,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level9.resS"}
+{"msg":"noderesult","processed_node_count":164,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level6","index":57,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level6"}
+{"msg":"noderesult","processed_node_count":164,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level4.resS","index":54,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level4.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level3","index":51,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level3"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level3","index":51}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level3.resS","index":52,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level3.resS"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level3.resS","index":52}
+{"msg":"noderesult","processed_node_count":166,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level4","index":53,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level4"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level29.resS","index":50,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level29.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level29.resS","index":50}
-{"msg":"noderesult","processed_node_count":167,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level9","index":63,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level9"}
+{"msg":"noderesult","processed_node_count":167,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level5.resS","index":56,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level5.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level29","index":49,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level29"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level29","index":49}
-{"msg":"noderesult","processed_node_count":168,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level8","index":61,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level8"}
+{"msg":"noderesult","processed_node_count":168,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level5","index":55,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level5"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level28.resS","index":48,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level28.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level28.resS","index":48}
-{"msg":"noderesult","processed_node_count":169,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets4.assets","index":99,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets4.assets"}
-{"msg":"noderesult","processed_node_count":170,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level6.resS","index":58,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level6.resS"}
-{"msg":"noderesult","processed_node_count":170,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level7","index":59,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level7"}
-{"msg":"noderesult","processed_node_count":170,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets26.assets.resS","index":94,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets26.assets.resS"}
-{"msg":"noderesult","processed_node_count":170,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets29.assets","index":97,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets29.assets"}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level27.resS","index":46,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level27.resS"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level27.resS","index":46}
+{"msg":"noderesult","processed_node_count":169,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level3","index":51,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level3"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level28","index":47,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level28"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level28","index":47}
+{"msg":"noderesult","processed_node_count":170,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level29.resS","index":50,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level29.resS"}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level27.resS","index":46,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level27.resS"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level27.resS","index":46}
+{"msg":"noderesult","processed_node_count":171,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level3.resS","index":52,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level3.resS"}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level27","index":45,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level27"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level27","index":45}
+{"msg":"noderesult","processed_node_count":172,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level29","index":49,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level29"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level26.resS","index":44,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level26.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level26.resS","index":44}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level27","index":45,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level27"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"noderesult","processed_node_count":173,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level28.resS","index":48,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level28.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level26","index":43,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level26"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level27","index":45}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level26","index":43}
-{"msg":"noderesult","processed_node_count":174,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level6","index":57,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level6"}
+{"msg":"noderesult","processed_node_count":174,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level28","index":47,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level28"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level25.resS","index":42,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level25.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level25.resS","index":42}
-{"msg":"noderesult","processed_node_count":175,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets26.assets","index":93,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets26.assets"}
-{"msg":"noderesult","processed_node_count":175,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets9.assets","index":105,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets9.assets"}
-{"msg":"noderesult","processed_node_count":175,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level5","index":55,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level5"}
+{"msg":"noderesult","processed_node_count":175,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level27","index":45,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level27"}
+{"msg":"noderesult","processed_node_count":175,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level26","index":43,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level26"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level25","index":41,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level25"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level24.resS","index":40,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level24.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level25","index":41}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level24.resS","index":40,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level24.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level24.resS","index":40}
-{"msg":"noderesult","processed_node_count":177,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level7.resS","index":60,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level7.resS"}
+{"msg":"noderesult","processed_node_count":177,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level27.resS","index":46,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level27.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level24","index":39,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level24"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level24","index":39}
-{"msg":"noderesult","processed_node_count":178,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets5.assets","index":100,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets5.assets"}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level23","index":37,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level23"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level23","index":37}
-{"msg":"noderesult","processed_node_count":180,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets24.assets","index":91,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets24.assets"}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level22.resS","index":36,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level22.resS"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level22.resS","index":36}
-{"msg":"noderesult","processed_node_count":181,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level8.resS","index":62,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level8.resS"}
+{"msg":"noderesult","processed_node_count":178,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets2.resource","index":86,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets2.resource"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level23.resS","index":38,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level23.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level23.resS","index":38}
+{"msg":"noderesult","processed_node_count":179,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level26.resS","index":44,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level26.resS"}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level23","index":37,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level23"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level23","index":37}
+{"msg":"noderesult","processed_node_count":180,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level25.resS","index":42,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level25.resS"}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level22.resS","index":36,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level22.resS"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level22.resS","index":36}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level22","index":35,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level22"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level22","index":35}
-{"msg":"noderesult","processed_node_count":182,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level4","index":53,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level4"}
+{"msg":"noderesult","processed_node_count":182,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level24.resS","index":40,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level24.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level21.resS","index":34,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level21.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level21.resS","index":34}
-{"msg":"noderesult","processed_node_count":183,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level28","index":47,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level28"}
+{"msg":"noderesult","processed_node_count":183,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level25","index":41,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level25"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level21","index":33,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level21"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level21","index":33}
-{"msg":"noderesult","processed_node_count":184,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level29.resS","index":50,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level29.resS"}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets7.assets","index":103}
+{"msg":"noderesult","processed_node_count":184,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level24","index":39,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level24"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level20.resS","index":32,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level20.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level20.resS","index":32}
-{"msg":"noderesult","processed_node_count":185,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level26","index":43,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level26"}
+{"msg":"noderesult","processed_node_count":185,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level23.resS","index":38,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level23.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level20","index":31,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level20"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level20","index":31}
-{"msg":"noderesult","processed_node_count":186,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level27","index":45,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level27"}
-{"msg":"noderesult","processed_node_count":187,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level24","index":39,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level24"}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets5.assets","index":100}
+{"msg":"noderesult","processed_node_count":186,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level23","index":37,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level23"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level2.resS","index":30,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level2.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level2.resS","index":30}
+{"msg":"noderesult","processed_node_count":187,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level22.resS","index":36,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level22.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level2","index":29,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level2"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level2","index":29}
-{"msg":"noderesult","processed_node_count":188,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets11.assets.resS","index":75,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets11.assets.resS"}
-{"msg":"noderesult","processed_node_count":188,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level24.resS","index":40,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level24.resS"}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level19","index":27,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level19"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level19","index":27}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets6.assets","index":102}
+{"msg":"noderesult","processed_node_count":188,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level21.resS","index":34,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level21.resS"}
+{"msg":"noderesult","processed_node_count":188,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level22","index":35,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level22"}
+{"msg":"noderesult","processed_node_count":188,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level21","index":33,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level21"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level19.resS","index":28,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level19.resS"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level19","index":27,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level19"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level19.resS","index":28}
-{"msg":"noderesult","processed_node_count":190,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level5.resS","index":56,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level5.resS"}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level19","index":27}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets4.assets","index":99}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level18.resS","index":26,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level18.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level18.resS","index":26}
-{"msg":"noderesult","processed_node_count":191,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level26.resS","index":44,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level26.resS"}
-{"msg":"noderesult","processed_node_count":191,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level3","index":51,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level3"}
+{"msg":"noderesult","processed_node_count":191,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets7.assets","index":103,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets7.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level18","index":25,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level18"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level18","index":25}
-{"msg":"noderesult","processed_node_count":191,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level4.resS","index":54,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level4.resS"}
+{"msg":"noderesult","processed_node_count":192,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level20.resS","index":32,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level20.resS"}
+{"msg":"noderesult","processed_node_count":193,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level20","index":31,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level20"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level17.resS","index":24,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level17.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level17.resS","index":24}
-{"msg":"noderesult","processed_node_count":193,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets2.resource","index":86,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets2.resource"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level17","index":23,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level17"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level17","index":23}
-{"msg":"noderesult","processed_node_count":194,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level21","index":33,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level21"}
-{"msg":"noderesult","processed_node_count":194,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level20","index":31,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level20"}
+{"msg":"noderesult","processed_node_count":194,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets5.assets","index":100,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets5.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level16.resS","index":22,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level16.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level16.resS","index":22}
+{"msg":"noderesult","processed_node_count":195,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level2.resS","index":30,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level2.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level16","index":21,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level16"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level16","index":21}
-{"msg":"noderesult","processed_node_count":196,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level22.resS","index":36,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level22.resS"}
+{"msg":"noderesult","processed_node_count":196,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level2","index":29,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level2"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level15.resS","index":20,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level15.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level15.resS","index":20}
-{"msg":"noderesult","processed_node_count":197,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level25.resS","index":42,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level25.resS"}
+{"msg":"noderesult","processed_node_count":197,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets6.assets","index":102,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets6.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level15","index":19,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level15"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level15","index":19}
-{"msg":"noderesult","processed_node_count":198,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level21.resS","index":34,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level21.resS"}
-{"msg":"noderesult","processed_node_count":198,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level27.resS","index":46,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level27.resS"}
+{"msg":"noderesult","processed_node_count":198,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets4.assets","index":99,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets4.assets"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level14.resS","index":18,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level14.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level14.resS","index":18}
+{"msg":"noderesult","processed_node_count":199,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level18.resS","index":26,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level18.resS"}
+{"msg":"noderesult","processed_node_count":199,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level19.resS","index":28,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level19.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level14","index":17,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level14"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level14","index":17}
-{"msg":"noderesult","processed_node_count":200,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level20.resS","index":32,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level20.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level13.resS","index":16,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level13.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level13.resS","index":16}
-{"msg":"noderesult","processed_node_count":201,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level23","index":37,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level23"}
-{"msg":"noderesult","processed_node_count":202,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level3.resS","index":52,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level3.resS"}
+{"msg":"noderesult","processed_node_count":201,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level19","index":27,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level19"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level13","index":15,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level13"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level13","index":15}
+{"msg":"noderesult","processed_node_count":202,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level17.resS","index":24,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level17.resS"}
+{"msg":"noderesult","processed_node_count":202,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level18","index":25,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level18"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level12.resS","index":14,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level12.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level12.resS","index":14}
-{"msg":"noderesult","processed_node_count":204,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level25","index":41,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level25"}
-{"msg":"noderesult","processed_node_count":204,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets11.assets","index":74,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets11.assets"}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level11.resS","index":12,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level11.resS"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level11","index":11,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level11"],"oldvalue":[],"dependency":"explicit"}]}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level11.resS","index":12}
-{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level11","index":11}
+{"msg":"noderesult","processed_node_count":203,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level17","index":23,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level17"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level12","index":13,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level12"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level12","index":13}
-{"msg":"noderesult","processed_node_count":206,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level2","index":29,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level2"}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level11.resS","index":12,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level11.resS"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level11.resS","index":12}
+{"msg":"noderesult","processed_node_count":205,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level16","index":21,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level16"}
+{"msg":"noderesult","processed_node_count":205,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level16.resS","index":22,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level16.resS"}
+{"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level11","index":11,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level11"],"oldvalue":[],"dependency":"explicit"}]}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level11","index":11}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level10.resS","index":10,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level10.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level10.resS","index":10}
-{"msg":"noderesult","processed_node_count":207,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level19.resS","index":28,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level19.resS"}
+{"msg":"noderesult","processed_node_count":207,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level15.resS","index":20,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level15.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level10","index":9,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level10"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level10","index":9}
-{"msg":"noderesult","processed_node_count":208,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level19","index":27,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level19"}
+{"msg":"noderesult","processed_node_count":208,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level15","index":19,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level15"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level1.resS","index":8,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level1.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level1.resS","index":8}
-{"msg":"noderesult","processed_node_count":209,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level29","index":49,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level29"}
+{"msg":"noderesult","processed_node_count":209,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level14.resS","index":18,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level14.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level1","index":7,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level1"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level1","index":7}
-{"msg":"noderesult","processed_node_count":210,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level22","index":35,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level22"}
+{"msg":"noderesult","processed_node_count":210,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level13.resS","index":16,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level13.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level0.resS","index":6,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level0.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level0.resS","index":6}
-{"msg":"noderesult","processed_node_count":211,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level2.resS","index":30,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level2.resS"}
+{"msg":"noderesult","processed_node_count":211,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level14","index":17,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level14"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/level0","index":5,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\level0"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/level0","index":5}
-{"msg":"noderesult","processed_node_count":212,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level18","index":25,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level18"}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets5.assets.resS","index":101}
+{"msg":"noderesult","processed_node_count":212,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level13","index":15,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level13"}
+{"msg":"noderesult","processed_node_count":213,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level12","index":13,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level12"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/globalgamemanagers.assets.resS","index":4,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\globalgamemanagers.assets.resS"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/globalgamemanagers.assets.resS","index":4}
-{"msg":"noderesult","processed_node_count":213,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level18.resS","index":26,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level18.resS"}
+{"msg":"noderesult","processed_node_count":214,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level12.resS","index":14,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level12.resS"}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/globalgamemanagers.assets","index":3,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\globalgamemanagers.assets"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/globalgamemanagers.assets","index":3}
-{"msg":"noderesult","processed_node_count":214,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level17","index":23,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level17"}
-{"msg":"noderesult","processed_node_count":214,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level16","index":21,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level16"}
+{"msg":"noderesult","processed_node_count":214,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level11.resS","index":12,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level11.resS"}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets29.assets","index":97}
 {"msg":"inputSignatureChanged","annotation":"CopyFiles Download Game/9S_Data/globalgamemanagers","index":2,"changes":[{"key":"InputFileList","value":["Library\\PlayerDataCache\\Win64\\Data\\globalgamemanagers"],"oldvalue":[],"dependency":"explicit"}]}
 {"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/globalgamemanagers","index":2}
-{"msg":"noderesult","processed_node_count":216,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level16.resS","index":22,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level16.resS"}
-{"msg":"noderesult","processed_node_count":218,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level28.resS","index":48,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level28.resS"}
-{"msg":"noderesult","processed_node_count":219,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level15.resS","index":20,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level15.resS"}
-{"msg":"noderesult","processed_node_count":220,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level23.resS","index":38,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level23.resS"}
-{"msg":"noderesult","processed_node_count":221,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level15","index":19,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level15"}
-{"msg":"noderesult","processed_node_count":222,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level13.resS","index":16,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level13.resS"}
-{"msg":"noderesult","processed_node_count":222,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level13","index":15,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level13"}
-{"msg":"noderesult","processed_node_count":224,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level14.resS","index":18,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level14.resS"}
-{"msg":"noderesult","processed_node_count":224,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level12.resS","index":14,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level12.resS"}
-{"msg":"noderesult","processed_node_count":226,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level10.resS","index":10,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level10.resS"}
-{"msg":"noderesult","processed_node_count":227,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level10","index":9,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level10"}
-{"msg":"noderesult","processed_node_count":228,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level1.resS","index":8,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level1.resS"}
-{"msg":"noderesult","processed_node_count":229,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level17.resS","index":24,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level17.resS"}
-{"msg":"noderesult","processed_node_count":230,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level11","index":11,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level11"}
-{"msg":"noderesult","processed_node_count":230,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level11.resS","index":12,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level11.resS"}
-{"msg":"noderesult","processed_node_count":232,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level1","index":7,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level1"}
-{"msg":"noderesult","processed_node_count":233,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level0.resS","index":6,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level0.resS"}
-{"msg":"noderesult","processed_node_count":234,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/globalgamemanagers","index":2,"exitcode":0,"outputfile":"Download Game\\9S_Data\\globalgamemanagers"}
-{"msg":"noderesult","processed_node_count":235,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level0","index":5,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level0"}
-{"msg":"noderesult","processed_node_count":236,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/globalgamemanagers.assets.resS","index":4,"exitcode":0,"outputfile":"Download Game\\9S_Data\\globalgamemanagers.assets.resS"}
-{"msg":"noderesult","processed_node_count":237,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level12","index":13,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level12"}
-{"msg":"noderesult","processed_node_count":238,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level14","index":17,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level14"}
-{"msg":"noderesult","processed_node_count":239,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/globalgamemanagers.assets","index":3,"exitcode":0,"outputfile":"Download Game\\9S_Data\\globalgamemanagers.assets"}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets3.assets","index":98}
+{"msg":"noderesult","processed_node_count":217,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level11","index":11,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level11"}
+{"msg":"noderesult","processed_node_count":218,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level10.resS","index":10,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level10.resS"}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets28.assets","index":96}
+{"msg":"noderesult","processed_node_count":219,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level10","index":9,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level10"}
+{"msg":"noderesult","processed_node_count":220,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level1.resS","index":8,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level1.resS"}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets27.assets","index":95}
+{"msg":"noderesult","processed_node_count":221,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level1","index":7,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level1"}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets26.assets.resS","index":94}
+{"msg":"noderesult","processed_node_count":222,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level0","index":5,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level0"}
+{"msg":"noderesult","processed_node_count":223,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/level0.resS","index":6,"exitcode":0,"outputfile":"Download Game\\9S_Data\\level0.resS"}
+{"msg":"noderesult","processed_node_count":224,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets5.assets.resS","index":101,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets5.assets.resS"}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets25.assets","index":92}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets26.assets","index":93}
+{"msg":"noderesult","processed_node_count":225,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets3.assets","index":98,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets3.assets"}
+{"msg":"noderesult","processed_node_count":225,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/globalgamemanagers","index":2,"exitcode":0,"outputfile":"Download Game\\9S_Data\\globalgamemanagers"}
+{"msg":"noderesult","processed_node_count":227,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets29.assets","index":97,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets29.assets"}
+{"msg":"noderesult","processed_node_count":228,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets26.assets.resS","index":94,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets26.assets.resS"}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets24.assets","index":91}
+{"msg":"noderesult","processed_node_count":229,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets28.assets","index":96,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets28.assets"}
+{"msg":"noderesult","processed_node_count":229,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/globalgamemanagers.assets","index":3,"exitcode":0,"outputfile":"Download Game\\9S_Data\\globalgamemanagers.assets"}
+{"msg":"noderesult","processed_node_count":230,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets27.assets","index":95,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets27.assets"}
+{"msg":"noderesult","processed_node_count":232,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/globalgamemanagers.assets.resS","index":4,"exitcode":0,"outputfile":"Download Game\\9S_Data\\globalgamemanagers.assets.resS"}
+{"msg":"noderesult","processed_node_count":233,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets25.assets","index":92,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets25.assets"}
+{"msg":"noderesult","processed_node_count":234,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets26.assets","index":93,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets26.assets"}
+{"msg":"noderesult","processed_node_count":235,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets24.assets","index":91,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets24.assets"}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets23.assets","index":90}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets22.assets","index":89}
+{"msg":"noderesult","processed_node_count":236,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets23.assets","index":90,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets23.assets"}
+{"msg":"noderesult","processed_node_count":237,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets22.assets","index":89,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets22.assets"}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets21.assets","index":88}
+{"msg":"runNodeAction","annotation":"CopyFiles Download Game/9S_Data/sharedassets20.assets","index":87}
+{"msg":"noderesult","processed_node_count":238,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets21.assets","index":88,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets21.assets"}
+{"msg":"noderesult","processed_node_count":239,"number_of_nodes_ever_queued":241,"annotation":"CopyFiles Download Game/9S_Data/sharedassets20.assets","index":87,"exitcode":0,"outputfile":"Download Game\\9S_Data\\sharedassets20.assets"}

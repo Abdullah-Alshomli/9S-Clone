@@ -16,6 +16,7 @@ public class MyUI : MonoBehaviour
     
     public void GoToMainMenu()
     {
+        SceneManager.UnloadSceneAsync(SceneManager.GetActiveScene());
         SceneManager.LoadScene("Main Menu");
     }
     
