@@ -1101,18 +1101,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 103777628, guid: 129b49bcf2318f8429d23aa5699d2cbf, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
-      value: 11
-      objectReference: {fileID: 0}
-    - target: {fileID: 1163373763, guid: 129b49bcf2318f8429d23aa5699d2cbf, type: 3}
-      propertyPath: nextLvl
-      value: 12
-      objectReference: {fileID: 0}
-    - target: {fileID: 1814885786, guid: 129b49bcf2318f8429d23aa5699d2cbf, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
-      value: 12
-      objectReference: {fileID: 0}
     - target: {fileID: 2659194197481728542, guid: 129b49bcf2318f8429d23aa5699d2cbf, type: 3}
       propertyPath: m_Name
       value: General
