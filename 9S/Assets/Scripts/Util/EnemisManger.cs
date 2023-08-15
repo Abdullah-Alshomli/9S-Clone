@@ -11,8 +11,11 @@ public class EnemisManger : MonoBehaviour
     private float loadingDealy = 1;
     
     public static int numberOfEnemise = 0;
+
+    private PlayerHealthManger PlayerHP;
     void Start()
     {
+         PlayerHP = FindObjectOfType<PlayerHealthManger>().gameObject.GetComponent<PlayerHealthManger>();
          EnemyBase[] enemies = FindObjectsOfType<EnemyBase>();
          Spawner[] spawners = FindObjectsOfType<Spawner>();
          numberOfEnemise = enemies.Length + spawners.Length;
@@ -20,7 +23,7 @@ public class EnemisManger : MonoBehaviour
     
     void Update()
     {
-        if (numberOfEnemise <= 0)
+        if (numberOfEnemise <= 0 && PlayerHP.isAlive)
         {
             loadingDealy -= Time.deltaTime;
             if (loadingDealy <=0)

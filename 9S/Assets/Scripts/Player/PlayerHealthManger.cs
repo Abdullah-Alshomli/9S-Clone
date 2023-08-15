@@ -16,7 +16,7 @@ public class PlayerHealthManger : MonoBehaviour
     [SerializeField] private GameObject explosionAudioPlayer;
 
     [SerializeField] private int currentLvl;
-
+    public bool isAlive = true;
     void Start()
     {
         _hpComponent = GetComponent<HPComponent>();
@@ -26,6 +26,7 @@ public class PlayerHealthManger : MonoBehaviour
     {
         if (_hpComponent.Hp <= 0)
         {
+            isAlive = false;
             Destroy(gameObject);
         }
 
@@ -46,11 +47,11 @@ public class PlayerHealthManger : MonoBehaviour
         Instantiate(explosionAudioPlayer,transform.position,transform.rotation);
         GameObject ExpEffect = Instantiate(ExplotionEffect, transform.position, transform.rotation);
         Destroy(ExpEffect, 3);
-        if (EnemisManger.numberOfEnemise > 0 )
+        if (EnemisManger.numberOfEnemise >= 0 && !isAlive)
         {
             GoToLVL(currentLvl);
         }
-        else if (currentLvl == 27 && _hpComponent.Hp > 0)
+        else if (currentLvl == 27 && isAlive)
         {
             GoToLVL(28);
         }

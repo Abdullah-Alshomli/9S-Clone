@@ -88,9 +88,9 @@ public class EnemyBase : MonoBehaviour
                 GameObject ExpEffect = Instantiate(explosionEffect, other.transform.position, other.transform.rotation);
                 Destroy(ExpEffect,3);
             }
-
-
+            
             Destroy(gameObject);
+            other.gameObject.GetComponent<PlayerHealthManger>().isAlive = false;
             Destroy(other.gameObject);
         }
     }
