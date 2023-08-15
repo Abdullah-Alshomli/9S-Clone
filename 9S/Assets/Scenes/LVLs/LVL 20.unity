@@ -4278,7 +4278,7 @@ PrefabInstance:
     - target: {fileID: 1315728767709123790, guid: 9921885a9698dfb4c8c39f5a030026c5, type: 3}
       propertyPath: EnemyPrefab
       value: 
-      objectReference: {fileID: 4840967933561087001, guid: b1ba513e722e67b449689ed0daa60883, type: 3}
+      objectReference: {fileID: 117362085693259578, guid: f79f102f764d0764489e9a5515999d4d, type: 3}
     - target: {fileID: 1315728767709123790, guid: 9921885a9698dfb4c8c39f5a030026c5, type: 3}
       propertyPath: TimeToSpawn
       value: 7
@@ -6032,7 +6032,7 @@ PrefabInstance:
     - target: {fileID: 1315728767709123790, guid: 9921885a9698dfb4c8c39f5a030026c5, type: 3}
       propertyPath: EnemyPrefab
       value: 
-      objectReference: {fileID: 4840967933561087001, guid: b1ba513e722e67b449689ed0daa60883, type: 3}
+      objectReference: {fileID: 117362085693259578, guid: f79f102f764d0764489e9a5515999d4d, type: 3}
     - target: {fileID: 1315728767709123790, guid: 9921885a9698dfb4c8c39f5a030026c5, type: 3}
       propertyPath: TimeToSpawn
       value: 7

@@ -10,8 +10,9 @@ public class RedCube : MonoBehaviour
     {
         if (other.gameObject.layer == Layers.Player)
         {
+            other.gameObject.GetComponent<PlayerHealthManger>().isAlive = false;
             GameObject ExpEffect = Instantiate(ExplotionEffect, other.transform.position,other.transform.rotation);
-            Destroy(ExpEffect,3);
+            Destroy(ExpEffect,.5f);
             Destroy(other.gameObject);
         }
     }

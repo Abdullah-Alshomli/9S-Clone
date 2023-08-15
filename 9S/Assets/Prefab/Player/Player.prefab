@@ -93,7 +93,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 119000235f925d2439ab662767149500, type: 2}
+  - {fileID: 2100000, guid: 7f2000460f6ff57499145ff84c1b4a24, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -190,7 +190,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 119000235f925d2439ab662767149500, type: 2}
+  - {fileID: 2100000, guid: 7f2000460f6ff57499145ff84c1b4a24, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -398,6 +398,7 @@ MonoBehaviour:
   BulletPrefab: {fileID: 8087401403605841502, guid: 9fe72219473c66e4b8c563e020b026f4, type: 3}
   Firerate: 0.1
   BulletSpawnPoint: {fileID: 1383416724}
+  PowerUpTimeControl: 10
 --- !u!114 &173652389
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -456,6 +457,8 @@ MonoBehaviour:
   Cube2: {fileID: 1474177778}
   ExplotionEffect: {fileID: 6786224037029969417, guid: f3aaa42b784add1469885b5ec4ae00cf, type: 3}
   explosionAudioPlayer: {fileID: 397264122283513596, guid: 13b08aa99a51f7e458107fff140b8598, type: 3}
+  currentLvl: 0
+  isAlive: 1
 --- !u!82 &1705451499
 AudioSource:
   m_ObjectHideFlags: 0
